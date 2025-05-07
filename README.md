@@ -1,4 +1,4 @@
-<h2 align="left">Sobre mim</h2>
+<h2 align="left">🖐️ Sobre mim</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Tecnologias</h2>
+<h2 align="left">🛠️ Tecnologias</h2>
 
 ###
 
@@ -38,23 +38,31 @@
 
 ###
 
-<h2 align="left">Projetos</h2>
+<h2 align="left">📁 Projetos</h2>
 
 ###
 
-<p align="left">Ciência de dados</p>
+<p align="left">🔬 Ciência de dados</p>
+<div align="left">
+  <a href="https://github.com/V1ct0rC/Ciencia-de-Dados-Projeto-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Ciencia-de-Dados-Projeto-1&theme=react&hide_border=true" />
+  </a>
+  <a href="https://github.com/PedroPeixinho/Desafio_OnCase">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroPeixinho&repo=Desafio_OnCase&theme=react&hide_border=true" />
+  </a>
+</div>
 
 ###
 
-<p align="left">Machine Learning</p>
+<p align="left">🤖 Machine Learning</p>
 
 ###
 
-<p align="left">Outros</p>
+<p align="left">🧰 Outros</p>
 
 ###
 
-<h2 align="left">Estatísticas</h2>
+<h2 align="left">📊 Estatísticas</h2>
 
 ###
 
@@ -65,16 +73,16 @@
 
 ###
 
-<h2 align="left">Contato</h2>
+<h2 align="left">📫 Contato</h2>
 
 ###
 
 <div align="left">
   <a href="mailto:pedrohenriquepeixinho@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  />
   </a>
   <a href="https://br.linkedin.com/in/pedro-peixinho-832920235" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
 
