@@ -47,8 +47,8 @@
   <a href="https://github.com/V1ct0rC/Ciencia-de-Dados-Projeto-1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=V1ct0rC&repo=Ciencia-de-Dados-Projeto-1&theme=react&hide_border=true" />
   </a>
-  <a href="https://github.com/PedroPeixinho/Desafio_OnCase">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroPeixinho&repo=Desafio_OnCase&theme=react&hide_border=true" />
+  <a href="https://github.com/PedroPeixinho/Projeto-final-VAI-Academy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroPeixinho&repo=Projeto-final-VAI-Academy&theme=react&hide_border=true" />
   </a>
 </div>
 
