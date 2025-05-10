@@ -55,6 +55,11 @@
 ###
 
 <p align="left">🤖 Machine Learning</p>
+<div align="left">
+  <a href="https://github.com/PedroPeixinho/Projeto-2-Machine-Learning">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroPeixinho&repo=Projeto-2-Machine-Learning&theme=react&hide_border=true" />
+  </a>
+</div>
 
 ###
 
